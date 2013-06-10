@@ -1,0 +1,6 @@
+
+CL-Morfeusz is a Common Lisp interface to Morfeusz morphological analyser
+(http://sgjp.pl/morfeusz/).
+
+Author: Łukasz Kożuchowski
+License: 2-clause BSD
